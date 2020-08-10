@@ -1,0 +1,22 @@
+{
+  "name": "ionicum",
+  "version": "1.0.0",
+  "description": "aplicativo da familia brasileira",
+  "main": "fefefe",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marceloroxi/ionicum.git"
+  },
+  "keywords": [
+    "chave"
+  ],
+  "author": "Marcelo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marceloroxi/ionicum/issues"
+  },
+  "homepage": "https://github.com/marceloroxi/ionicum#readme"
+}
